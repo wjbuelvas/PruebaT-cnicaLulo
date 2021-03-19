@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"test",": Eliminar empleado en Dummy","FAILURE","2021-03-18T23:28:51.982-05:00[America/Bogota]","0.0","2.27"
+"test","Escenario Transversal Creación, consulta, Actualización y eliminación del Empleado","FAILURE","2021-03-18T23:28:55.33-05:00[America/Bogota]","0.0","0.88"

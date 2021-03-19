@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"test",": Crear empleado en Dummy","SUCCESS","2021-03-18T23:28:39.77-05:00[America/Bogota]","0.0","11.23"
+"test",": Consultar empleado en Dummy","SUCCESS","2021-03-18T23:28:51.013-05:00[America/Bogota]","0.0","0.95"
+"test",": Eliminar empleado en Dummy","FAILURE","2021-03-18T23:28:51.982-05:00[America/Bogota]","0.0","2.27"
+"test",": Actualizar empleado en Dummy","SUCCESS","2021-03-18T23:28:54.451-05:00[America/Bogota]","0.0","0.87"
+"test","Escenario Transversal Creación, consulta, Actualización y eliminación del Empleado","FAILURE","2021-03-18T23:28:55.33-05:00[America/Bogota]","0.0","0.88"
